@@ -18,4 +18,4 @@
 ## 技能培训
 * 了解 http://wowubuntu.com/markdown/#list， 在github新建页面尝试一下
 * 了解和使用工具  http://sspai.com/25137
-* 在［简书]（http://jianshu.com）上开blog
+* 在[简书](http://jianshu.com)）上开blog
