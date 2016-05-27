@@ -5,6 +5,7 @@
 ### 人力填表
 * 填写人力给的“纸质经历登记“ 表
 * 登记完毕，拍照留念（图片下面用）
+* 给分配企业邮箱，加入公司微信群，使用明道。
 
 ### 价值观培训
  
@@ -18,4 +19,6 @@
 ## 技能培训
 * 了解 http://wowubuntu.com/markdown/#list， 在github新建页面尝试一下
 * 了解和使用工具  http://sspai.com/25137
-* 在[简书](http://jianshu.com)）上开blog
+* 在[简书](http://jianshu.com)上开blog
+* 在github上申请账号，向申请加入http://github.com/osokay
+* 在 
