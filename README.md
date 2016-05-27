@@ -21,4 +21,4 @@
 * 了解和使用工具  http://sspai.com/25137
 * 在[简书](http://jianshu.com)上开blog
 * 在github上申请账号，向申请加入http://github.com/osokay
-* 在 
+* 在 ＋
