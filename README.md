@@ -21,4 +21,4 @@
 * 了解和使用工具  http://sspai.com/25137
 * 在[简书](http://jianshu.com)上开blog
 * 在github上申请账号，向申请加入http://github.com/osokay
-* 在 ＋
+* 下载VNC，通知MacMini管理员添加账户后，查看Vine的IP与端口，之后在自己的工作机上通过VNCView连接Mac。
