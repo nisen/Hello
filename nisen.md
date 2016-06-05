@@ -10,6 +10,6 @@
 
 ### 参考
  * MarkDown中文文档之一 http://wowubuntu.com/markdown/#list
- * 中文文档代码 http://github.com/nisen/markdown-syntx_zh
+ * 中文文档代码 http://github.com/osokay/markdown-syntx_zh
  * MarkDown工具选型列表  http://sspai.com/25137
  * Tight官方网站 http://www.tightvnc.com/
